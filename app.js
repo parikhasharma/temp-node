@@ -1,0 +1,6 @@
+const names=require('./names')
+const sayhi=require('./function')
+// sayhi('susan')
+// sayhi(names.john)
+// sayhi(names.peter)
+require('./mind')
